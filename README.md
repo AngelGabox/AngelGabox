@@ -17,8 +17,7 @@ const Angel_Martinez = {
 ```
 # Portafolio
 <ul> 
-  <li><a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Countries-1.0' target="_blank" rel="noopener noreferrer">Proyecto Individual Countries 1.0</a></li>
-  <li><a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Countries-2.0' target="_blank" rel="noopener noreferrer">Proyecto Individual Countries 2.0</a></li>
+  <li><a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Countries-2.0' target="_blank" rel="noopener noreferrer">Proyecto Individual Countries</a></li>
   <li><a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Dogs' target="_blank" rel="noopener noreferrer">Proyecto Individual Dogs</a></li>
 </ul>
 

@@ -1,7 +1,5 @@
 # Gabriel de la Roca
-
-![](https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor) 
-
+<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/Let's%20explore%20the%20world%20together.png"/>
 
 #### About
 ```javascript

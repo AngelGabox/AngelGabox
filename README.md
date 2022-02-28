@@ -45,12 +45,12 @@ const Angel_Martinez = {
 
 ### Dogs
  <p width='100%' height="50%"> 
-   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/homeDogs.png"  width="470" height="300"/>   
-   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/dogDetail.png"  width="470" height="300"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/homeDogs.png"  width="450" height="300"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/dogDetail.png"  width="450" height="300"/>   
  </p>
  <p width='50%' height="50%"> 
-   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/homeDogs.png"  width="470" height="300"/>   
-   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/dogDetail.png"  width="470" height="300"/> 
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/creandoPerro.png"  width="450" height="300"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/perro.png"  width="450" height="300"/> 
  </p>
 > 2do Proyecto individual en Henry
 <a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Dogs' target="_blank" rel="noopener noreferrer">link</a>

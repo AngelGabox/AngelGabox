@@ -1,6 +1,6 @@
 # Gabriel de la Roca
 
-<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/portada.png" width="100%" height="400px"/>
+<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/portada.png" width="100%" height="350px"/>
 
 ---
 
@@ -37,8 +37,21 @@ const Angel_Martinez = {
 
 ---  
 # Portafolio
-<ul> 
-  <li><a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Countries-2.0' target="_blank" rel="noopener noreferrer">Proyecto Individual Countries</a></li>
-  <li><a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Dogs' target="_blank" rel="noopener noreferrer">Proyecto Individual Dogs</a></li>
-</ul>
+
+### Countries 
+
+> 1er Proyecto individual en Henry
+<a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Countries-2.0' target="_blank" rel="noopener noreferrer">link</a>
+
+### Dogs
+ <p width='100%' height="50%"> 
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/homeDogs.png"  width="470" height="300"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/dogDetail.png"  width="470" height="300"/>   
+ </p>
+ <p width='50%' height="50%"> 
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/homeDogs.png"  width="470" height="300"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/dogDetail.png"  width="470" height="300"/> 
+ </p>
+> 2do Proyecto individual en Henry
+<a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Dogs' target="_blank" rel="noopener noreferrer">link</a>
 

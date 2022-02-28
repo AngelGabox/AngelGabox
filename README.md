@@ -1,5 +1,8 @@
 # Gabriel de la Roca
-<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/Let's%20explore%20the%20world%20together.png"/>
+
+<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/portada.png" width="100%" height="400px"/>
+
+---
 
 #### About
 ```javascript

@@ -51,7 +51,6 @@ const Angel_Martinez = {
 
 > Proyecto grupal en Henry
 <a href='https://front-pg.vercel.app/' target="_blank" rel="noopener noreferrer">link</a>
-p width='100%' height="50%"> 
 
 ### Dogs
  <p width='100%' height="50%"> 

@@ -9,7 +9,7 @@
 const Angel_Martinez = {
   profession: "FullStack Developer",
   henry_Projects: {
-    induvidual_Projects: [Dogs, Countries]
+    induvidual_Projects: [Dogs, Countries],
     grupal_Projects: [PIWO, A Sala Llena]
   },
   hobbies: ["play guitar", "play video games"]

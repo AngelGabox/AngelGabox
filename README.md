@@ -38,10 +38,18 @@ const Angel_Martinez = {
 ---  
 # Portafolio
 
-### Countries 
-
-> 1er Proyecto individual en Henry
-<a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Countries-2.0' target="_blank" rel="noopener noreferrer">link</a>
+## A Sala Llena
+> Proyecto grupal en Henry
+<a href='https://front-pg.vercel.app/' target="_blank" rel="noopener noreferrer">link</a>
+p width='100%' height="50%"> 
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto1.png"  width="300" height="500"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto2.png"  width="300" height="500"/> 
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto3.png"  width="300" height="500"/>   
+ </p>
+ <p width='50%' height="50%"> 
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto4.png"  width="400" height="300"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto5.png"  width="400" height="300"/> 
+ </p>
 
 ### Dogs
  <p width='100%' height="50%"> 
@@ -52,6 +60,20 @@ const Angel_Martinez = {
    <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/creandoPerro.png"  width="400" height="300"/>   
    <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/perro.png"  width="400" height="300"/> 
  </p>
+ 
 > 2do Proyecto individual en Henry
 <a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Dogs' target="_blank" rel="noopener noreferrer">link</a>
 
+
+### Countries 
+<p width='100%' height="50%"> 
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/homeCountries1.png"  width="400" height="300"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/homeCountries.png"  width="400" height="300"/>   
+ </p>
+ <p width='50%' height="50%"> 
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/form.png"  width="400" height="300"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/detail.png"  width="400" height="300"/> 
+ </p>
+
+> 1er Proyecto individual en Henry
+<a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Countries-2.0' target="_blank" rel="noopener noreferrer">link</a>

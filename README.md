@@ -39,15 +39,16 @@ const Angel_Martinez = {
 # Portafolio
 
 ## A Sala Llena
-   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto1.png"  width="300" height="500"/>   
-   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto2.png"  width="300" height="500"/> 
-   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto3.png"  width="300" height="500"/>   
+<p width='100%' height="50%">
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto1.png"  width="280" height="400"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto2.png"  width="280" height="400"/> 
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto3.png"  width="280" height="400"/>   
  </p>
  <p width='50%' height="50%"> 
    <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto4.png"  width="400" height="300"/>   
    <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto5.png"  width="400" height="300"/> 
  </p>
- 
+
 > Proyecto grupal en Henry
 <a href='https://front-pg.vercel.app/' target="_blank" rel="noopener noreferrer">link</a>
 p width='100%' height="50%"> 

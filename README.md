@@ -40,9 +40,9 @@ const Angel_Martinez = {
 
 ## A Sala Llena
 <p width='100%' height="50%">
-   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto1.png"  width="280" height="400"/>   
-   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto2.png"  width="280" height="400"/> 
-   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto3.png"  width="280" height="400"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto1.png"  width="270" height="400"/>   
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto2.png"  width="270" height="400"/> 
+   <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto3.png"  width="270" height="400"/>   
  </p>
  <p width='50%' height="50%"> 
    <img src="https://github.com/AngelGabriel2021/Me/blob/main/img/foto4.png"  width="400" height="300"/>   

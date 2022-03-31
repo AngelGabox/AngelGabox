@@ -82,7 +82,7 @@ const Angel_Martinez = {
  </p>
  
 > 2do Proyecto individual en Henry
-<a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Dogs' target="_blank" rel="noopener noreferrer">link</a>
+<a href='https://proyecto-individual-dogs-sage.vercel.app/' target="_blank" rel="noopener noreferrer">link</a>
 
 
 ### Countries 
@@ -96,4 +96,4 @@ const Angel_Martinez = {
  </p>
 
 > 1er Proyecto individual en Henry
-<a href='https://github.com/AngelGabriel2021/Proyecto-Individual-Countries-2.0' target="_blank" rel="noopener noreferrer">link</a>
+<a href='https://proyecto-individual-countries.vercel.app/' target="_blank" rel="noopener noreferrer">link</a>

@@ -82,7 +82,7 @@ const Angel_Martinez = {
  </p>
  
 > 2do Proyecto individual en Henry
-<a href='https://proyecto-individual-dogs-sage.vercel.app/' target="_blank" rel="noopener noreferrer">link</a>
+<a href='https://proyecto-individual-countries-production-ed6c.up.railway.app' target="_blank" rel="noopener noreferrer">link</a>
 
 
 ### Countries 

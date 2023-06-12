@@ -8,11 +8,20 @@
 ```javascript
 const Angel_Martinez = {
   profession: "FullStack Developer",
+  education: [HENRY, ONE]
   henry_Projects: {
     induvidual_Projects: [Dogs, Countries],
     grupal_Projects: [PIWO, A Sala Llena]
   },
+  
   hobbies: ["play guitar", "play video games"]
+}
+```
+```java
+package com.AngelGabox.about
+
+public AngelGabox(){
+  
 }
 ```
 ---

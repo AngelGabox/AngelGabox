@@ -29,7 +29,12 @@ const Angel_Martinez = {
 package com.about.AngelGabox
 
 public AngelGabox(){
-  String education = "Oracle Next Education"  
+  String education = "Oracle Next Education";
+  ArrayList<String> projectsONE = new ArrayList();
+  projectsONE.add("Challenge-ONE-Encrypter");
+  projectsONE.add("Challenge-ONE-Java");
+  projectsONE.add("Challenge-Hotel-Alura");
+  projectsONE.add("challenge-one-foro-alura");
 }
 ```
 ---

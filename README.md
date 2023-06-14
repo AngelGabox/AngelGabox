@@ -1,8 +1,9 @@
 # Gabriel de la Roca
 
-<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/developer001.jpg" width="100%" height="350px"/>
-<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/developer002.jpg" width="100%" height="350px"/>
+<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/developer001.jpg" width="100%" height="450px"/>
+<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/developer002.jpg" width="100%" height="450px"/>
 
+#### Imagenes creadas por IA
 ---
 
 #### About
@@ -30,7 +31,8 @@ const Angel_Martinez = {
 package com.about.AngelGabox
 
 public AngelGabox(){
-  String education = "Oracle Next Education";
+
+  final String ONE = "Oracle Next Education";
   
   public staic void main(String[] args){
 

@@ -1,6 +1,7 @@
 # Gabriel de la Roca
 
-<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/portada.png" width="100%" height="350px"/>
+<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/developer001.jpg" width="100%" height="350px"/>
+<img src="https://github.com/AngelGabriel2021/Me/blob/main/img/developer002.jpg" width="100%" height="350px"/>
 
 ---
 
